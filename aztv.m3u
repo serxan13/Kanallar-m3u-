@@ -1,0 +1,1249 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://admin.aztv.az/userfiles/files/a.png" group-title="Azerbaycan",AzTv
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://acra.gov.az/storage/1173/ATV-LOGGOO-SAYT.jpg" group-title="Azerbaycan",Azad Tv
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHpt-RA_0AU_HgJxO0ePs5asSm8bsZWByUQ&s" group-title="Azerbaycan",Medeniyyet
+http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png" group-title="Azerbaycan",Ictimai Tv
+http://str.yodacdn.net/ictimai/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/8/86/ARB.png/800px-ARB.png" group-title="Azerbaycan",ARB HD
+http://88.99.66.6:8080/str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZK7WbCjIDMImt122wE_2uxNvBephd-zdgOg&s" group-title="Azerbaycan",Kanal S
+http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaFV1eNU_GgeTN_Zoui968xo4fPqdRIU4RUQ&s" group-title="Azerbaycan",Kəpəz Tv
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://canlitv.com/kanal/logo/11827.jpg" group-title="Azerbaycan",Xəzər Tv
+http://str.yodacdn.net/xazar/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Space Tv
+http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Real_TV_Azerbaijan_Logo.png" group-title="Azerbaycan",REAL TV
+http://str.yodacdn.net/real/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azerbaycan",ARB24 HD
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYw4UVha1pSwm7OaX-X-7Lg0M9PditL6Epxg&s" group-title="Azerbaycan",BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Qafqaz_TV_%282017-h.h.%29.png" group-title="Azerbaycan",QAFQAZ TV
+http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" group-title="Azerbaycan",CBC TV
+http://135.181.115.81:8000/play/a01o/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://acra.gov.az/storage/947/apatv-loqo-%E2%80%94-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png" group-title="Azerbaycan",APA TV
+http://88.99.66.6:8080/str.yodacdn.net/apatv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://medicalmedia.az/wp-content/uploads/2024/10/stv.jpg" group-title="Azerbaycan",Sehiyye Tv
+http://88.99.66.6:8080/str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png" group-title="Azerbaycan",NAXÇIVAN TV
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azerbaycan",Dunya Tv
+http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1365581824/sestv_logo_400x400.jpg" group-title="Azerbaycan",Ses Tv
+http://stream.tvcdn.net/azerbaycan/ses-tv.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/628088623066279936/xS30H96L_400x400.jpg" group-title="Azerbaycan",ESMA TV
+https://tivi240.ozelip.com:3520/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKZcOF7YS-13dUxX_VSmb3TR_TiK8-Bz3-g&s" group-title="Azerbaycan",K@TV 1
+http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://azadsoz.az/wp-content/uploads/2024/05/436621751_984904253299073_5001162290917920895_n.png" group-title="Azerbaycan",AZAD SOZ AZ
+https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IRe-J5Ht-chwLL4zPihjJjBMtWWdNa0HwJgvw7b4eY2ReNy0WxxXVEO07xzwZRxWlpMopv5zyvM=s900-c-k-c0x00ffffff-no-rj" group-title="Azerbaycan",Ismayilli Tv
+https://tivi240.ozelip.com:3736/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8zs0TKKvEFGKjjXBbPBlssypJ6X1QFY0GA&s" group-title="Azerbaycan",Ulduz Tv
+https://tivi240.ozelip.com:3153/stream/play.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Kader Tv
+https://tivi240.ozelip.com:3710/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAZy44856uqGIX0vmrj9hX8HViwFwvBBisQ&s" group-title="Azerbaycan",Kend Heyati
+https://glb.bozztv.com/glb/ssh101/kendheyati/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5ZMREzN9jWgpb5qxZEdPw4q8LlmSUcbg_GvjowUE_ATSzlRPScNZbRVosOkqg09InJCjttyH4Dk=s900-c-k-c0x00ffffff-no-rj" group-title="Azerbaycan",Son Umid Tv
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2rbgx_uVL-h5ZsUTkA_5U5fNfLtURbR-VE5CibCfkres=s900-c-k-c0x00ffffff-no-rj" group-title="Azerbaycan",Sirius Tv
+http://195.9.195.3:8080/hls/211270.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSko9thCrbFc7rAhrh67uUyGTYDcl_0M6-6ug&s" group-title="Azerbaycan",Gence Tv
+https://megatv208.radyotelekom.com.tr:3829/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUnCPXPLMNbKeTJkvQbgdxOIuvNnyAAFF-w&s" group-title="Azerbaycan",Mega Tv Retro Music
+https://megatv208.radyotelekom.com.tr:3468/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l286LbWNbV1RlYFmTEXsqe0t2DTa9g5xJNi1SINCGWVQ=s900-c-k-c0x00ffffff-no-rj" group-title="Azerbaycan",Şirvan Tv
+https://megatv208.radyotelekom.com.tr:3326/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwNTuWI8bQQmaDILEx61wiEUQpbo-w2WuKQ&s" group-title="Azerbaycan",Buzovna Tv
+https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UN9ZnpVI5mAqVfAZeW4HFBKHXZiLQlN3XAJ6IjbalfIZrf3tUYIYyL06uwdUh0eDLoD69dk2UQM=s900-c-k-c0x00ffffff-no-rj" group-title="Azerbaycan",A Media Tv
+https://live.yayingold.com.tr/amediatvlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpa5WzpFNMpariPqe8V2SEf3PoalKI4ALLbg&s" group-title="Azerbaycan",Live Tv
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Alvin_Channel_TV_-_AZE.png" group-title="Azerbaycan",Alvin Channel
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/b6/Kanal_35_%28loqo%29.png" group-title="Azerbaycan",Kanal 35
+http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GeATlQAVArAUpXxEVdCVH-1DaVQ9eA4ajA&s" group-title="Azerbaycan",Doğru TV
+https://live.yayingold.com.tr/dogrutvazlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" group-title="Filmlər",ATV CINEMA
+http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://epointbucket.s3.eu-central-1.amazonaws.com/images/users/big/660d1902a28d3.png" group-title="Filmlər",FTV
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 tvg-logo="https://videonow.live/wp-content/uploads/vwls/_snapshots/aligoshgar.jpg" group-title="Filmlər",ALIGOSHGAR TV
+https://tivi240.ozelip.com:3142/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUnCPXPLMNbKeTJkvQbgdxOIuvNnyAAFF-w&s" group-title="Filmlər",MEGA WAR
+https://megatv208.radyotelekom.com.tr:3335/stream/play.m3u8
+#EXTINF:-1 group-title="Filmlər",Kino Retro
+https://glb.bozztv.com/glb/ssh101/kinoretro/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Box Tv Az
+https://live.yayingold.com.tr/boxtvazlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUnCPXPLMNbKeTJkvQbgdxOIuvNnyAAFF-w&s" group-title="Filmlər",MEGA CINEMA
+https://megatv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUnCPXPLMNbKeTJkvQbgdxOIuvNnyAAFF-w&s" group-title="Filmlər",Mega Horror
+https://megatv208.radyotelekom.com.tr:3420/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://canlitv.com/kanal/logo/13408.jpg" group-title="Filmlər",Kanal 65 comedy
+https://live.yayingold.com.tr/kanal65comedylive2024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://canlitv.com/kanal/logo/13408.jpg" group-title="Filmlər",Kanal 65 Az Sinema
+https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUnCPXPLMNbKeTJkvQbgdxOIuvNnyAAFF-w&s" group-title="Filmlər",Mega Cinema Retro
+https://megatv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
+#EXTINF:-1 group-title="Filmlər",.black
+http://185.50.148.2:7703/Sony_Turbo/index.m3u8
+#EXTINF:-1 group-title="Filmlər",.red
+http://91.205.199.3:80/redhd/index.m3u8
+#EXTINF:-1 group-title="Filmlər",.sci-fi
+http://stream01.vnet.am/Kinoseriya/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Amedia 1
+http://185.50.148.2:7707/A1/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Amedia 2
+http://live.admuspeh.my/8927/index.m3u8?token=TestuspehTva
+#EXTINF:-1 group-title="Filmlər",Amedia Hit
+http://130.193.73.10:8937/play/a02o
+#EXTINF:-1 group-title="Filmlər",Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Cinema
+http://91.205.199.3/sinema/index.m3u8
+#EXTINF:-1 group-title="Filmlər",FOX Ru
+http://live.admuspeh.my/8168/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",Fan Tv
+http://109.200.130.123:7537/play/a02a
+#EXTINF:-1 group-title="Filmlər",Filmbox
+http://iptv.prosto.tv:7000/ch64/video.m3u8
+#EXTINF:-1 group-title="Filmlər",Filmbox Arthouse
+http://iptv.prosto.tv:7000/ch63/video.m3u8
+#EXTINF:-1 group-title="Filmlər",Kino Living
+http://109.200.130.123:7537/play/a02k
+#EXTINF:-1 group-title="Filmlər",Fox Life
+http://stream01.vnet.am/KXLTV/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",FlixSnip
+http://185.50.148.2:7703/FlixSnip/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Hollywood Tv
+http://109.200.130.123:7537/play/a02g
+#EXTINF:-1 group-title="Filmlər",Shot tv
+http://130.193.73.10:8937/play/a022
+#EXTINF:-1 group-title="Filmlər",Viju+ 1000
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+#EXTINF:-1 group-title="Filmlər",Start Wold
+http://95.156.76.230:33001/udp/230.4.34.66:1234
+#EXTINF:-1 group-title="Filmlər",Tv 1000 Action
+http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Blokbaster
+http://185.23.80.28:8080/Blockbaster/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",Viju+ Premiere
+http://213.226.137.140:81/tl/l319/mpegts
+#EXTINF:-1 group-title="Filmlər",Viju+ Megahit
+http://95.156.76.230:33001/udp/230.4.34.108:1234
+#EXTINF:-1 group-title="Filmlər",Дорама
+http://95.142.88.250:80/Dorama/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Дом Кино
+http://193.242.190.6:8099/38/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Дом Кино Премиум
+http://213.226.137.140:81/tl/l75/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Иллюзион
+http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",Еврокино
+http://213.226.137.140:81/tl/l407/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Индийское кино
+http://188.113.190.12/329/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Индия
+http://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Камеди
+http://185.23.80.28:8080/Camedi/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",Viju+ Comedy
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+#EXTINF:-1 group-title="Filmlər",Viju+ Serial
+http://91.205.199.3/vipserialhd/index.m3u8
+#EXTINF:-1 group-title="Filmlər",viju+ TV1000 Русское
+http://213.226.137.140:81/tl/l93/mpegts
+#EXTINF:-1 group-title="Filmlər",Кинеко
+http://s1.merlive.am/kineko/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Кинокомедия
+http://213.226.137.140:81/tl/l52/mpegts
+#EXTINF:-1 group-title="Filmlər",КиноХит
+http://s1.merlive.am/KinoxitHD/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Кино ТВ
+http://193.242.190.6:8099/88/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Кинопоказ
+http://185.23.80.28:8080/Kinopokaz/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",Киномикс
+http://s1.merlive.am/kinomix/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Киносвидание
+http://s1.merlive.am/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Киносат
+http://185.23.80.28:8080/KinoSat/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",Киноужас
+http://213.226.137.140:81/tl/l415/mpegts
+#EXTINF:-1 group-title="Filmlər",Киносерия
+http://178.163.88.106:4022/udp/234.0.0.119:2000
+#EXTINF:-1 group-title="Filmlər",Любимое кино
+http://130.193.73.10:8937/play/a037
+#EXTINF:-1 group-title="Filmlər",Комедия
+http://s1.merlive.am/Kinokomedia/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Мужское кино
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Filmlər",Мосфильм.Золотая коллекция
+http://193.242.190.6:8099/98/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Мир сериала
+http://185.23.80.28:8080/MirSeriala/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",Наш кинопоказ
+http://185.23.80.28:8080/NashKinopokaz/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",Наше мужское
+http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",Наше новое кино
+http://213.226.137.140:81/tl/l53/mpegts
+#EXTINF:-1 group-title="Filmlər",Премиальное
+http://116bc677.amazzin.pw/iptv/DDUW3MS3CHQ98L2M74NWZZRR/7222/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Русский бестселлер
+http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Filmlər",Родное кино
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Русский иллюзион
+http://192.166.144.101:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Русский детектив
+http://130.193.73.10:8937/play/a03o
+#EXTINF:-1 group-title="Filmlər",Русский бестселлер
+http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Filmlər",1 FILMAX
+http://hls.goodgame.ru:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="Filmlər",ХИТ ТВ
+http://185.23.80.28:8080/Xit/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Filmlər",2 FILMAX
+http://hls.goodgame.ru:8080/hls/204717.m3u8
+#EXTINF:-1 group-title="Filmlər",Cinema Космос ТВ
+http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="Filmlər",КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Кошмар GoodGame
+http://hls.goodgame.ru:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Filmlər",Кино Без Границ
+http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:-1 group-title="Filmlər",КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Filmlər",FILM TV GROUP UA
+http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP/video.m3u8
+#EXTINF:-1 group-title="Filmlər",FILM TV 2 GoodGame
+http://hls.goodgame.ru:8080/hls/163253.m3u8
+#EXTINF:-1 group-title="Filmlər",Manyaki
+http://fs2.persik.by/Manjaki6/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 5
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Kinozal 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Mr. Bean
+https://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 group-title="Filmlər",viju TV1000 romantica
+https://u.to/X5puIQ
+#EXTINF:-1 group-title="Filmlər",viju TV1000 новелла
+https://u.to/pptuIQ
+#EXTINF:-1 group-title="Filmlər",CineMan MiniSeries
+http://live.admuspeh.my/8961/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan Ужасы
+http://live.admuspeh.my/8960/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 group-title="Filmlər",CineMan Комедийные сериалы
+http://live.admuspeh.my/8958/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan Катастрофы
+http://live.admuspeh.my/8957/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan Melodrama
+http://live.admuspeh.my/8955/video.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 group-title="Filmlər",CineMan Thriller
+http://live.admuspeh.my/8954/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan
+http://live.admuspeh.my/8952/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan Marvel
+http://live.admuspeh.my/8951/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 group-title="Filmlər",CineMan РуКино
+http://live.admuspeh.my/8871/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan Air Crash
+http://live.admuspeh.my/8826/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan Сваты
+http://live.admuspeh.my/8825/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan ПёС + Лихач
+http://live.admuspeh.my/8824/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 group-title="Filmlər",CineMan Скорая помощь
+http://live.admuspeh.my/8821/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",CineMan VHS
+http://live.admuspeh.my/8807/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 group-title="Filmlər",CineMan Ментовские Войны
+http://live.admuspeh.my/8802/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 group-title="Filmlər",CineMan Лесник
+http://live.admuspeh.my/8767/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Filmlər",Tivi Türk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 group-title="Filmlər",Viyana Tv
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="Filmlər",Bein Box Office 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3050&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Box Office 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3049&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Movies Turk
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3038&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Movies Stars
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3039&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Movies Premiere 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3041&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Series 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89831&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Series 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89830&extension=ts
+#EXTINF:-1 group-title="Filmlər",Movies Smart Turk
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2906&extension=ts
+#EXTINF:-1 group-title="Filmlər",Premium Dizi Smart
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89833&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Yerli 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=170408&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Tv Aile 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89838&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Tv 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89835&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Tv 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89836&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Aksiyon 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=170405&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Tv 1002
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89834&extension=ts
+#EXTINF:-1 group-title="Filmlər",Epic Drama
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=170409&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Tv 1001
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89837&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Aksiyon 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89839&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Series 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89832&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Series 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3035&extension=ts
+#EXTINF:-1 group-title="Filmlər",Tabii Orginal 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=180966&extension=ts
+#EXTINF:-1 group-title="Filmlər",Tabii Orginal 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=180968&extension=ts
+#EXTINF:-1 group-title="Filmlər",Tabii Orginal 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=180969&extension=ts
+#EXTINF:-1 group-title="Filmlər",Tabii Orginal 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182054&extension=ts
+#EXTINF:-1 group-title="Filmlər",Tabii Orginal 5
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182054&extension=ts
+#EXTINF:-1 group-title="Filmlər",Gain Orginal 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=181012&extension=ts
+#EXTINF:-1 group-title="Filmlər",Gain Orginal 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=181014&extension=ts
+#EXTINF:-1 group-title="Filmlər",Gain Orginal 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=181015&extension=ts
+#EXTINF:-1 group-title="Filmlər",Aksiyon 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182736&extension=ts
+#EXTINF:-1 group-title="Filmlər",Aksiyon 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182737&extension=ts
+#EXTINF:-1 group-title="Filmlər",Aksiyon 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182738&extension=ts
+#EXTINF:-1 group-title="Filmlər",Aksiyon 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182739&extension=ts
+#EXTINF:-1 group-title="Filmlər",Aksiyon 5
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182740&extension=ts
+#EXTINF:-1 group-title="Filmlər",Gelirim Suç
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182745&extension=ts
+#EXTINF:-1 group-title="Filmlər",Amazon
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182705&extension=ts
+#EXTINF:-1 group-title="Filmlər",Netflix
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182704&extension=ts
+#EXTINF:-1 group-title="Filmlər",Disney +1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182706&extension=ts
+#EXTINF:-1 group-title="Filmlər",Disney +2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182707&extension=ts
+#EXTINF:-1 group-title="Filmlər",Al Pacino
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=91054&extension=ts
+#EXTINF:-1 group-title="Filmlər",Jackie Chan
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=71205&extension=ts
+#EXTINF:-1 group-title="Filmlər",Nicolas Cage
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=93454&extension=ts
+#EXTINF:-1 group-title="Filmlər",Van Damme
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=91071&extension=ts
+#EXTINF:-1 group-title="Filmlər",Jason Statham
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=47655&extension=ts
+#EXTINF:-1 group-title="Filmlər",Mark Wahlberg
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=94648&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Tv Aile 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=170404&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Box Office 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3048&extension=ts
+#EXTINF:-1 group-title="Filmlər",Sinema Tv Comedy
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=170407&extension=ts
+#EXTINF:-1 group-title="Filmlər",Bein Movies Premiere 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=89829&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182701&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182708&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182709&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182712&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 5
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182713&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 6
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182714&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 7
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182716&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 8
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182717&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 9
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182718&extension=ts
+#EXTINF:-1 group-title="Filmlər",Yabanci Sinema 10
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=182719&extension=ts
+#EXTINF:-1 group-title="Filmlər",Viasat Kino World
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 group-title="Filmlər",Viasat Kino
+http://ott.server-iptv.live/618/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 group-title="Filmlər",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Filmlər",312 Сериал
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="Filmlər",Фантастика FHD
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/31722/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Кинодром
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31714/index.m3u8
+#EXTINF:-1 group-title="Filmlər",кино 1
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/18069/index.m3u8
+#EXTINF:-1 group-title="Filmlər",кино 2
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18070/index.m3u8
+#EXTINF:-1 group-title="Filmlər",кино 7
+http://87.99.87.203:2020/channel/n4adcc4fb/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1 group-title="Filmlər",КиноКомедия
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Filmlər",КиноДрама
+https://v2.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Filmlər",КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Filmlər",КиноДетектив
+https://v2.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Filmlər",КиноСемья
+https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Вестник Надыма
+https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Filmlər",PersikTV Известные актёры
+http://fs2.persik.by/Izvestnie_akteri6/index.m3u8
+#EXTINF:-1 group-title="Filmlər",PersikTV Кино выходного дня
+http://fs2.persik.by/Kino_vihodnogo_dnia8/index.m3u8
+#EXTINF:-1 group-title="Filmlər",PersikTV Зомби-апокалипсис
+http://fs2.persik.by/Zombi_apokalipsis8/index.m3u8
+#EXTINF:-1 group-title="Filmlər",PersikTV Боевики
+http://fs2.persik.by/Boeviki_16/index.m3u8
+#EXTINF:-1 group-title="Filmlər",PersikTV Американские комедии
+https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
+#EXTINF:-1 group-title="Filmlər",KINO зал
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:-1 group-title="Filmlər",Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Filmlər",Наше любимое кино
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/34283/hls/pl.m3u8
+#EXTINF:-1 tvg-logo="https://turkic.world/media/2022/10/11/tmb_logo_111022.jpg" group-title="Musiqi",TMB TV AZ
+http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO4uXHTFwnWH0EUMq_D1n7-IJYXISUTB2zg&s" group-title="Musiqi",Vostok Tv
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 tvg-logo="https://muztv.az/storage/news/2019/05/660_8289_155cdd3dbd79828_1558003133.jpg" group-title="Musiqi",Muz Tv
+http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/T3QXTIeYlArDh_o3z-CSxPy-7h8IMB8YUd81iSxPLgYvyoEK_79d6ATGS-JawiMEIj8OO9jN=s900-c-k-c0x00ffffff-no-rj" group-title="Musiqi",Show Plus Tv
+http://str.yodacdn.net/showplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUnCPXPLMNbKeTJkvQbgdxOIuvNnyAAFF-w&s" group-title="Musiqi",Mega tv Music
+https://megatv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 group-title="Musiqi",MuzzOne
+https://streams.qazcdn.net/muzzone/muzzone/muzzone/muzzone_360/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Musiqi",Dream Turk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",Шансон ТВ
+http://tv.streams.baikal-telecom.net:8080/ShansonTV/mpegts
+#EXTINF:-1 group-title="Musiqi",THT Music
+http://185.23.80.28:8080/TNTMusic/index.m3u8?token=test
+#EXTINF:-1 group-title="Musiqi",Первый Музыкальный
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="Musiqi",О!2
+http://185.23.80.28:8080/O2/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Musiqi",Музыка Первого
+http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Музыка 1 International
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Муз-ТВ
+http://65.21.85.175:8000/play/a00t/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Musiqi",Ля-минор
+https://flussonic.salomtv.uz/lya_minor/video.m3u8
+#EXTINF:-1 group-title="Musiqi",Жара
+http://178.163.88.106:4022/udp/234.0.0.214:2000
+#EXTINF:-1 group-title="Musiqi",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",Viva Russia
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Trance Urban
+http://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 group-title="Musiqi",Spirit Tv
+http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi",SONGTV Russia
+http://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Ru.tv
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Now 80`s
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Musiqi",Now 70`s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",Music Box
+http://185.23.80.28:8080/RUSSIANMUSICBOX/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Musiqi",Mezzo
+http://185.50.148.2:7703/Mezzo/index.m3u8
+#EXTINF:-1 group-title="Musiqi",MTV 90
+http://213.226.137.140:81/tl/l109/mpegts
+#EXTINF:-1 group-title="Musiqi",MTV 80S
+http://213.226.137.140:81/tl/l108/mpegts
+#EXTINF:-1 group-title="Musiqi",EUROPA PLUS TV
+http://93.189.224.246:52900/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Classic Music
+http://95.156.76.230:33001/udp/230.4.34.64:1234
+#EXTINF:-1 group-title="Musiqi",Bridge TV Шлягер
+http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Musiqi",Bridge TV Фрэш
+http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Musiqi",Bridge TV Русский Хит
+http://stream01.vnet.am/Channel_115/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi",Bridge TV Rock
+http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Musiqi",Bridge TV Hits
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Musiqi",Bridge TV Deluxe
+http://213.226.137.140:81/tl/l322/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Bridge TV Classic
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi",Bridge TV
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Dream Turk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 group-title="Musiqi",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1 group-title="Musiqi",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 group-title="Musiqi",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 group-title="Musiqi",Power Turk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 group-title="Musiqi",Power Turk Tap taze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1 group-title="Musiqi",NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",NR1 Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",NR1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",NR1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",Tatlises Tv
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",Milyon Tv
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 group-title="Musiqi",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Musiqi",One Tv Rus
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Musiqi",Techno Dance Music
+http://195.9.195.3:8080/hls/180509.m3u8
+#EXTINF:-1 group-title="Musiqi",Mega Music
+https://megatv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="Idman",CBC SPORT
+http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbFe7tNQqwhMkSCVvtvABTedhCOSEACPkXg&s" group-title="Idman",IDMAN TV
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Idman",Bein Sports 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=35701&extension=ts
+#EXTINF:-1 group-title="Idman",Bein Sports 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3032&extension=ts
+#EXTINF:-1 group-title="Idman",Bein Sports 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3022&extension=ts
+#EXTINF:-1 group-title="Idman",bein sports 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3028&extension=ts
+#EXTINF:-1 group-title="Idman",Bein sports 5
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=136249&extension=ts
+#EXTINF:-1 group-title="Idman",S sport 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2881&extension=ts
+#EXTINF:-1 group-title="Idman",S sport 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=52533&extension=ts
+#EXTINF:-1 group-title="Idman",Eurosport 1
+https://flussonic.salomtv.uz/Eurosport/video.m3u8
+#EXTINF:-1 group-title="Idman",Extreme Sports
+http://178.163.88.106:4022/udp/234.0.0.113:2000
+#EXTINF:-1 group-title="Idman",Fast& Fun Box
+http://95.156.76.230:33001/udp/230.4.34.86:1234
+#EXTINF:-1 group-title="Idman",Mma Tv
+http://213.226.137.140:81/tl/l404/mpegts
+#EXTINF:-1 group-title="Idman",KHL
+http://stream01.vnet.am/Channel_113/mono.m3u8
+#EXTINF:-1 group-title="Idman",KHL Prime
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="Idman",Eurosport 2
+http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
+#EXTINF:-1 group-title="Idman",Fight Box
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="Idman",Матч! Боец
+http://s1.merlive.am/match-boec/index.m3u8
+#EXTINF:-1 group-title="Idman",Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Idman",Матч!
+http://213.226.137.140:81/tl/l320/mpegts
+#EXTINF:-1 group-title="Idman",Беларусь 5
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w_b1010000_sleng.m3u8
+#EXTINF:-1 group-title="Idman",viju+ Sport
+http://213.226.137.140:81/tl/l97/mpegts
+#EXTINF:-1 group-title="Idman",UDAR
+http://95.142.88.250/udar_hd/index.m3u8
+#EXTINF:-1 group-title="Idman",Матч! Игра
+http://178.163.88.106:4022/udp/234.0.0.211:2000
+#EXTINF:-1 group-title="Idman",Матч! Планета
+http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
+#EXTINF:-1 group-title="Idman",Матч! Премьер
+http://s1.merlive.am/matchpremier/index.m3u8
+#EXTINF:-1 group-title="Idman",Матч! Страна
+http://s1.merlive.am/match-strana/index.m3u8
+#EXTINF:-1 group-title="Idman",Матч! Футбол 1
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Idman",Матч! Футбол 2
+http://live.admuspeh.my/8022/index.m3u8?token=TestuspehTva
+#EXTINF:-1 group-title="Idman",Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Idman",Футбол
+http://185.23.80.28:8080/Football/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Idman",Старт
+http://185.23.80.28:8080/START/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Idman",TRT 3 SPOR
+http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/31245/index.m3u8
+#EXTINF:-1 group-title="Idman",A Spor
+https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF:-1 group-title="Idman",Bein Sports Haber
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+#EXTINF:-1 group-title="Idman",Galatasaray
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 group-title="Idman",Fenerbahce
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Idman",Trt Spor
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2824&extension=ts
+#EXTINF:-1 group-title="Idman",TRT Spor Yildiz
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=129198&extension=ts
+#EXTINF:-1 group-title="Idman",Tabii Spor 1 4K
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=175666&extension=ts
+#EXTINF:-1 group-title="Idman",Tabii Spor 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=175442&extension=ts
+#EXTINF:-1 group-title="Idman",Tabii Spor 5
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=175440&extension=ts
+#EXTINF:-1 group-title="Idman",Tabii Spor 6
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=175437&extension=ts
+#EXTINF:-1 group-title="Idman",Tabii Spor 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=175072&extension=ts
+#EXTINF:-1 group-title="Idman",Tabii Spor 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=175073&extension=ts
+#EXTINF:-1 group-title="Idman",Tabii Spor 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=175441&extension=ts
+#EXTINF:-1 group-title="Idman",Bein Sports Max 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=174907&extension=ts
+#EXTINF:-1 group-title="Idman",Bein Sports Max 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=174908&extension=ts
+#EXTINF:-1 group-title="Idman",Tivibu Spor 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=39472&extension=ts
+#EXTINF:-1 group-title="Idman",Tivibu Spor 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2844&extension=ts
+#EXTINF:-1 group-title="Idman",Tivibu Spor 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2843&extension=ts
+#EXTINF:-1 group-title="Idman",Eurosport 1 Tr
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2989&extension=ts
+#EXTINF:-1 group-title="Idman",Eurosport 2 Tr
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2988&extension=ts
+#EXTINF:-1 group-title="Türk",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Türk",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 group-title="Türk",STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 group-title="Türk",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="Türk",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 group-title="Türk",ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+#EXTINF:-1 group-title="Türk",NOW TV
+https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:-1 group-title="Türk",TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="Türk",Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 group-title="Türk",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türk",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="Türk",TV 2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 group-title="Türk",Tv 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 group-title="Türk",SHOW MAX
+https://github.com/rideordie16/YouTube/raw/main/ch/showmax.m3u8
+#EXTINF:-1 group-title="Türk",SHOW TURK
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+#EXTINF:-1 group-title="Türk",A2
+https://c.fulltvizle.com/a2/index.m3u8
+#EXTINF:-1 group-title="Türk",ATV AVRUPA
+https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/index.m3u8
+#EXTINF:-1 group-title="Türk",TV 8.5
+http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 group-title="Türk",TV 5
+https://tv5-live.ercdn.net/tv5/tv5.m3u8
+#EXTINF:-1 group-title="Türk",HABERGLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="Türk",TV3
+https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
+#EXTINF:-1 group-title="Türk",NTV Turkiye
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+#EXTINF:-1 group-title="Türk",TV5 turk
+https://tv5-live.ercdn.net/tv5/tv5.m3u8
+#EXTINF:-1 group-title="Türk",Bloomberg ht
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="Türk",Super Turk
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+#EXTINF:-1 group-title="Türk",Super Turk Max
+http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+#EXTINF:-1 group-title="Türk",Cine1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 group-title="Türk",Cine 5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+#EXTINF:-1 group-title="Türk",Tele 1
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Türk",Line 1
+http://stream.tvcdn.net/yerel/line-tv-bursa.m3u8
+#EXTINF:-1 group-title="Türk",CNBC e
+http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+#EXTINF:-1 group-title="Türk",Kanal Z
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Türk",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Türk",Heber Turk
+http://stream.tvcdn.net/haber/haberturk.m3u8
+#EXTINF:-1 group-title="Türk",Fashion Tv
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Türk",360 Tv
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=7537&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 group-title="Sənədli Film",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Sənədli Film",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 group-title="Sənədli Film",YABAN TV
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+#EXTINF:-1 group-title="Sənədli Film",LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Love Nature tr
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2904&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",BBC EARTH TR
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=99747&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",VIASAT HISTORY
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=147434&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",Discovery Science
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3003&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",Discovey Channel
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3004&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",History tv tr
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2964&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",NAT GEO WILD TR
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2903&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",National Geo
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2902&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",BEIN IZ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3047&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",Bein Grume
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=31314&extension=ts
+#EXTINF:-1 group-title="Sənədli Film",Animal Planet Ru
+http://213.226.137.140:81/tl/l13/mpegts
+#EXTINF:-1 group-title="Sənədli Film",Big Planet Ru
+http://185.50.148.2:7703/BigPlanet/index.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Da Vinci Ru
+http://185.50.148.2:7703/DaVinciLearning/index.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Discovery Channel Ru
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sənədli Film",Galaxy Ru
+http://185.23.80.28:8080/Galaxy/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",HDL Ru
+http://213.226.137.140:81/tl/l305/mpegts
+#EXTINF:-1 group-title="Sənədli Film",History Ru
+http://iptv.prosto.tv:7000/ch87/video.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Investigation Discovery
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Travel+Adventure
+http://130.193.73.10:8937/play/a026
+#EXTINF:-1 group-title="Sənədli Film",TLC Ru
+http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",TERRA
+http://185.50.148.2:7707/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Sənədli Film",RTД rus
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Sənədli Film",RTG HD
+http://213.226.137.140:81/tl/l321/mpegts
+#EXTINF:-1 group-title="Sənədli Film",OCEAN
+http://s1.merlive.am/oceantv/index.m3u8
+#EXTINF:-1 group-title="Sənədli Film",National Geographic Ru
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sənədli Film",NTW RU
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",viju Explore
+https://flussonic.salomtv.uz/Viasat_Explorer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",ZooПарк
+http://185.37.150.40:8092/Zoo/playlist.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Viju Planet
+http://130.193.73.10:8937/play/a01l
+#EXTINF:-1 group-title="Sənədli Film",Viju Nature
+https://flussonic.salomtv.uz/Viasat_Nature/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Viju History
+https://flussonic.salomtv.uz/Viasat_History/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",В мире животных
+http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Живая планета
+https://flussonic.salomtv.uz/JivayaPlaneta/video.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Драйв
+http://185.23.80.28:8080/Draiv/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Доктор
+http://130.193.73.10:8937/play/a01q
+#EXTINF:-1 group-title="Sənədli Film",Время
+http://31.148.48.15/Vremya/index.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Живая планета
+https://flussonic.salomtv.uz/JivayaPlaneta/video.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Моя Планета
+http://stream01.vnet.am/365Dney/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Зоо ТВ
+http://185.23.80.28:8080/ZooTV/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Наука
+https://u.to/8q1uIQ
+#EXTINF:-1 group-title="Sənədli Film",Приключения
+http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Тайна
+http://185.23.80.28:8080/Tayna/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Совершенно секретно
+http://178.124.152.238:8088/sovsec
+#EXTINF:-1 group-title="Sənədli Film",Телепутешествия
+http://185.23.80.28:8080/Teleputeshestviya/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Первый космический
+http://stream01.vnet.am/Evrika/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Арсенал
+http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Рыболов
+http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Охотник и рыболов Int
+http://46.17.41.254:2020/channel/n407bc0bb/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 group-title="Sənədli Film",Охотник и рыболов
+http://185.23.80.28:8080/OxotnikIRybolov_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Sənədli Film",Оружие
+https://u.to/doNuIQ
+#EXTINF:-1 group-title="Sənədli Film",Охота и Рыбалка
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sənədli Film",Оружие
+https://u.to/doNuIQ
+#EXTINF:-1 group-title="Sənədli Film",Кухня ТВ
+http://178.163.88.106:4022/udp/234.0.0.241:2000
+#EXTINF:-1 group-title="Sənədli Film",Dikiy
+http://130.193.73.10:8937/play/a04s
+#EXTINF:-1 group-title="Sənədli Film",Ключ
+http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
+#EXTINF:-1 group-title="Sənədli Film",Love Nature 4k tr
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sənədli Film",TRT Belgesel HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Sənədli Film",DocuBox Ru
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/968/index.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Investigation Discovery
+http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Museum Tv RU
+http://31.184.197.124/museum_hd/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",One Planet RU
+http://ca.seetv.cc/play/310/909EB3897864A05/video.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Sea TV RU
+http://s1.odinson.me/Dj5GhS1MK7/index.m3u8?token=ctusL4YsjAzDXaEX
+#EXTINF:-1 group-title="Sənədli Film",Авто Плюс
+http://213.226.137.140:81/tl/l105/index.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Живая Планета
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8?token=test
+#EXTINF:-1 group-title="Sənədli Film",Живая природа
+http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Sənədli Film",Живи Активно HD
+https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Точка отрыва
+http://185.23.80.28:8080/TochkoOtryva/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Трофей
+http://live.admuspeh.my/8317/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Точка отрыва
+http://185.23.80.28:8080/TochkoOtryva/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Sənədli Film",Дикий
+http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sənədli Film",Дикая Рыбалка HD
+https://flussonic.salomtv.uz/DikayaRibalkaHD/video.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Дикая охота HD
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1 group-title="Sənədli Film",Диалоги о Рыбалке
+http://213.226.137.140:81/tl/l55/index.m3u8
+#EXTINF:-1 group-title="Uşaq",Minika Go
+https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+#EXTINF:-1 group-title="Uşaq",MINKA ÇOCUK
+https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+#EXTINF:-1 group-title="Uşaq",CARTOON NETWORK TR
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1 group-title="Uşaq",ARB GÜNƏŞ
+http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
+#EXTINF:-1 group-title="Uşaq",Tom and jerry
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=47688&extension=ts
+#EXTINF:-1 group-title="Uşaq",Nickelodeon
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2900&extension=ts
+#EXTINF:-1 group-title="Uşaq",MOONBUG
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=170411&extension=ts
+#EXTINF:-1 group-title="Uşaq",Disney jr
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=9304&extension=ts
+#EXTINF:-1 group-title="Uşaq",Nick Jr
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=9303&extension=ts
+#EXTINF:-1 group-title="Uşaq",Baby tv
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3051&extension=ts
+#EXTINF:-1 group-title="Uşaq",TRT COCUK
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=2833&extension=ts
+#EXTINF:-1 group-title="Uşaq",Disney Channel
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=3001&extension=ts
+#EXTINF:-1 group-title="Uşaq",Капитан Фантастика
+http://185.23.80.28:8080/KapitanFantastika/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Uşaq",Капитан Фантастика
+http://185.23.80.28:8080/KapitanFantastika/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Uşaq",Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Uşaq",Gulli Girl
+http://178.163.88.106:4022/udp/234.0.0.153:2000
+#EXTINF:-1 group-title="Uşaq",Cartoonito Ru
+http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Uşaq",CN Ru
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uşaq",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Uşaq",Nick Jr. Ru
+http://95.142.88.250/Nick_Jr./index.m3u8
+#EXTINF:-1 group-title="Uşaq",В гостях у сказки
+https://flussonic.salomtv.uz/Vgostahuskazki/video.m3u8
+#EXTINF:-1 group-title="Uşaq",Tiji
+http://stream01.vnet.am/Tiji/mono.m3u8
+#EXTINF:-1 group-title="Uşaq",Nicktoons Ru
+http://stream01.vnet.am/Boomerang/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uşaq",Nickelodeon Ru
+http://stream01.vnet.am/Channel_114/mono.m3u8
+#EXTINF:-1 group-title="Uşaq",Мульт и музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Uşaq",MAMA
+http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Uşaq",Карусель International
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Uşaq",Карусель
+http://178.57.121.38:8080/karusel/index.m3u8?token=test
+#EXTINF:-1 group-title="Uşaq",Детское кино International
+http://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Uşaq",Детский Мир
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 group-title="Uşaq",Смайл ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 group-title="Uşaq",СТС Kids
+http://stream02.vnet.am/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uşaq",Рыжий
+http://185.23.80.28:8080/Ryzhij/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Uşaq",O!
+http://185.23.80.28:8080/O/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Uşaq",Мультиландия
+http://185.23.80.28:8080/Multilandiya/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Uşaq",Уникум
+http://185.23.80.28:8080/Unikum/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Uşaq",Супер Герои
+http://radio.tvs.by:8088/Malish/index.m3u8
+#EXTINF:-1 group-title="Uşaq",Солнце
+http://91.205.199.3/disney/index.m3u8
+#EXTINF:-1 group-title="Uşaq",Канал 2x2
+http://213.226.137.140:81/tl/l405/mpegts
+#EXTINF:-1 group-title="Uşaq",Fox Kids
+http://foxkids-online.ru/hls/test.m3u8
+#EXTINF:-1 group-title="Uşaq",КиноМульт
+http://109.200.130.123:7537/play/a024
+#EXTINF:-1 group-title="Uşaq",Kids Tv
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 group-title="Uşaq",CineMan Top
+http://live.admuspeh.my/8959/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Uşaq",CineMan Cartoons Short
+http://live.admuspeh.my/8867/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Uşaq",CineMan Big
+http://live.admuspeh.my/8866/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Uşaq",CineMan Симпсоны
+http://live.admuspeh.my/8833/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 group-title="Uşaq",CineMan Cartoons 90
+http://live.admuspeh.my/8812/index.m3u8?token=iptvshared
+#EXTINF:-1 group-title="Uşaq",Maşa ile Koca Ayı
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=32029&extension=ts
+#EXTINF:-1 group-title="Uşaq",Buz Devri Koleksiyonu
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:83:6F:20&stream=47672&extension=ts
+#EXTINF:-1 group-title="Uşaq",ЭХО ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Uşaq",Mega Uşaq
+https://tivi240.ozelip.com:3178/stream/play.m3u8
+#EXTINF:-1 group-title="Uşaq",Поликлиника кота Леопольда
+https://mults.info/mp4/leopold_poliklinika_kota_leopolda.mp4
+#EXTINF:-1 group-title="Rus",СТС
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",ТНТ
+http://91.205.199.3/tnthd/index.m3u8
+#EXTINF:-1 group-title="Rus",ТВ3
+http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Rus",НТВ
+http://live.admuspeh.my/8003/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 group-title="Rus",РЕН ТВ
+http://185.23.80.28:8080/REN/index.m3u8
+#EXTINF:-1 group-title="Rus",ТСВ
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 group-title="Rus",ПЯТНИЦА
+http://130.193.73.10:8937/play/a018
+#EXTINF:-1 group-title="Rus",Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Rus",ПЯАТНИЦА ИНТ
+http://stream01.vnet.am/Pyatnica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",ТВ Центр
+http://213.226.137.140:81/tl/l28/index.m3u8
+#EXTINF:-1 group-title="Rus",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",360°
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",ПОБЕДА
+http://93.189.224.246:52900/play/a010/index.m3u8
+#EXTINF:-1 group-title="Rus",Россия 24
+http://213.226.137.140:81/tl/l44/mpegts
+#EXTINF:-1 group-title="Rus",Рбк тв
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 group-title="Rus",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Rus",Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Rus",Первый канал HD
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Rus",5 Канал
+http://130.193.73.10:8937/play/a00h
+#EXTINF:-1 group-title="Rus",Суботта тв
+http://31.148.48.15/Super/index.m3u8
+#EXTINF:-1 group-title="Rus",Киносвидание
+http://s1.merlive.am/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Rus",НТВ-Хит
+http://185.23.80.28:8080/NTVXit/index.m3u8?token=test
+#EXTINF:-1 group-title="Rus",НТВ-Сериал
+http://185.23.80.28:8080/NTVSerial/index.m3u8?token=test
+#EXTINF:-1 group-title="Rus",НСТ
+http://130.193.73.10:8937/play/a03c
+#EXTINF:-1 group-title="Rus",Про любовь
+http://185.23.80.28:8080/ProLyubov/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Rus",ТВ 21
+http://91.205.199.3/tvxxi/index.m3u8
+#EXTINF:-1 group-title="Rus",Сапфир
+http://130.193.73.10:8937/play/a01d
+#EXTINF:-1 group-title="Rus",Русский роман
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
+#EXTINF:-1 group-title="Rus",Русский иллюзион
+http://192.166.144.101:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Rus",Test
+1
+#EXTINF:-1 group-title="Rus",test
+q
+#EXTINF:-1 group-title="Rus",test
+qekei
+#EXTINF:-1 group-title="Rus",test
+qidi
+#EXTINF:-1 group-title="Rus",test
+qksiaqhqb
+#EXTINF:-1 group-title="Rus",365 дней ТВ
+http://65.21.85.175:8000/play/a00e/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Rus",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Rus",Здоровое ТВ
+http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="Rus",История
+http://stream01.vnet.am/Istoria/mono.m3u8
+#EXTINF:-1 group-title="Rus",НТВ-Право
+http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
+#EXTINF:-1 group-title="Rus",Мужской
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/33482/hls/pl.m3u8
+#EXTINF:-1 group-title="Rus",Моя Стихия
+http://130.193.73.10:8937/play/a02f
+#EXTINF:-1 group-title="Rus",Ностальгия
+http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="Rus",Нано
+http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
+#EXTINF:-1 group-title="Rus",Поехали!
+http://185.37.150.40:8092/Poehali/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Россия К
+http://213.226.137.140:81/tl/l49/index.m3u8
+#EXTINF:-1 group-title="Rus",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",Россия РТР
+http://stream02.vnet.am/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",Прима
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Продвижение
+http://185.23.80.28:8080/Prodvizhenie/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Rus",Своё ТВ Ставрополь
+http://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Rus",Сочи 24
+http://185.23.80.28:8080/Sochi24_HD/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Rus",Спас
+http://tvip.btk.teleos.ru:8081/chid7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",ТРК Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 group-title="Rus",Тео ТВ
+https://stream.teotv.ru/live/site360/chunklist.m3u8
+#EXTINF:-1 group-title="Rus",ТСВ
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 group-title="Rus",Домашний
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 group-title="Rus",Твоё ТВ
+http://tvoetv.space:8080/tvoetv/video.m3u8
+#EXTINF:-1 group-title="Rus",Ю
+http://213.226.137.140:81/tl/l1006/index.m3u8
+#EXTINF:-1 group-title="Rus",Че!
+http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",Союз
+http://94.230.128.105:8080/Souz/index.m3u8
+#EXTINF:-1 group-title="Rus",Москва 24
+http://185.23.80.28:8080/Moskva24/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Rus",ОНТ
+https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist_w316090515.m3u8
+#EXTINF:-1 group-title="Rus",7 Tv
+http://v4.proofix.ru/7tv-live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",8 канал
+http://cdn-01.bonus-tv.ru/8kanal/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Rus",Luxury TV
+https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",Вместе РФ
+http://cdn-01.bonus-tv.ru/vmesterf/index.m3u8
+#EXTINF:-1 group-title="Rus",Дон 24
+http://185.23.80.28:8080/DON24/index.m3u8?token=iptv50na50
+#EXTINF:-1 group-title="Rus",Дума ТВ
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",Евпатория 24
+http://195.26.83.96:7021/play/52/index.m3u8
+#EXTINF:-1 group-title="Rus",Живи Активно
+https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
+#EXTINF:-1 group-title="Rus",Зал суда
+http://95.156.76.230:33001/udp/230.4.34.6:1234
+#EXTINF:-1 group-title="Rus",Истоки ТВ Орёл
+http://istoki.tv:8080/HLS/stream_1.m3u8
+#EXTINF:-1 group-title="Rus",Колыма Плюс
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Кнопка ТВ
+https://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="Rus",Конный мир
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 group-title="Rus",Крик ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/tracks-v1a1/mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
+#EXTINF:-1 group-title="Rus",Кубань 24
+http://46.17.41.254:2020/channel/n34808a08/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+#EXTINF:-1 group-title="Rus",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Магнат ТВ
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1 group-title="Rus",НВК Саха
+http://live-saha.cdnvideo.ru/saha/saha/tracks-v1a1/mono.m3u8?hls_proxy_host=7fccbb7bbabf781d2b97487b967e3663
+#EXTINF:-1 group-title="Rus",НТВ-Мир
+http://s1.merlive.am/NTVMir/index.m3u8
+#EXTINF:-1 group-title="Rus",Неизвестная Россия
+http://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Rus",ОК ТВ
+http://v4.proofix.ru/okino-tv/index.m3u8
+#EXTINF:-1 group-title="Rus",ОТР
+http://185.50.148.2:7702/OTR/index.m3u8
+#EXTINF:-1 group-title="Rus",Омикс ТВ (Белово)
+http://37.205.83.56:81/udp/239.0.42.155:1224
+#EXTINF:-1 group-title="Rus",Про жизнь
+https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",Премиальное
+http://46.17.41.254:2020/channel/n499fb5dc/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+#EXTINF:-1 group-title="Rus",РЖД ТВ
+http://hls-tva.cdnvideo.ru/tva/tvahd.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",РТР Планета
+https://streaming.thestream.cyou/live/211.m3u8
+#EXTINF:-1 group-title="Rus",Ретро ТВ
+http://194.158.218.123:8880/Retrotv/index.m3u8
+#EXTINF:-1 group-title="Rus",Усадьба
+http://194.158.218.123:8880/Usadba/index.m3u8
+#EXTINF:-1 group-title="Rus",Наша Тема
+http://46.17.41.254:2020/channel/n24e96fef/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+#EXTINF:-1 group-title="Rus",НТВ-Стиль
+http://185.23.80.28:8080/NTVStil/index.m3u8?token=test
+#EXTINF:-1 group-title="Rus",ТСВ
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 group-title="Rus",brics
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Rus",Vremiya
+http://130.193.73.10:8937/play/a03p
+#EXTINF:-1 group-title="Rus",Perec
+http://stream01.vnet.am/Perec/mono.m3u8
+#EXTINF:-1 group-title="Rus",THT4
+http://91.205.199.3/tnt4/index.m3u8
+#EXTINF:-1 group-title="Rus",Bober
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Rus",Mir 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus",Poexali
+http://31.148.48.15:80/Poehali/index.m3u8?token=test
+#EXTINF:-1 group-title="Rus",Толк
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Рантик
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Тамбов
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 group-title="Rus",7ТВ
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1 group-title="Rus",Дожд
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Свое тв
+http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+#EXTINF:-1 group-title="Rus",enisey tv
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Rus",4 Канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Fashion Tv Ru
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Rus",RTД HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-logo="https://i.okcdn.ru/i?r=BDHsYJQ9nKW8WSbKUwTOyh4otQ9VMjFLFeXdM3G_ZCg_6LznhbwiW6xjkC5KUklwXDg&dpr=2" group-title="Bilgilendirme",İsrafilov Ali
+http://ok.ru/video/9340253244021
+#EXTINF:-1 tvg-logo="https://i.okcdn.ru/i?r=BDHsYJQ9nKW8WSbKUwTOyh4otQ9VMjFLFeXdM3G_ZCg_6LznhbwiW6xjkC5KUklwXDg&dpr=2" group-title="Bilgilendirme",+994514435955 WhatsApp
+Israfilov Ali
+#EXTINF:-1,Кинодром
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31714/index.m3u8
+#EXTINF:-1,Viasat Kino Action HD
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/76362/hls/pl.m3u8
+#EXTINF:-1,Наше Крутое HD
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/1664/hls/pl.m3u8
